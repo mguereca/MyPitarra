@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPitarra</string>
+    <string name="act_tanda">Lista de la Tanda</string>
+    <string name="act_captura">Captura de participantes</string>
+</resources>
